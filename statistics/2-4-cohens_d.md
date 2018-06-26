@@ -1,6 +1,7 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
->> import nsfg
+```
+import nsfg
 import thinkstats2
 import thinkplot
 
@@ -18,3 +19,4 @@ others = live[live.birthord != 1]
 # Exercise 2.4
 totalwgt_lb_diff = thinkstats2.CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb)
 print(totalwgt_lb_diff)
+```
