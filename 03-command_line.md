@@ -37,13 +37,13 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls`  : lists directory contents
-`ls -a` : includes directory contents whose names start with a dot
-`ls -l`  : lists directory contents in long format
-`ls -lh`  : when used with '-l', uses unit suffixes (Byte, Kilobyte, etc); human-readable format
-`ls -lah`  : lists directory contents using long format, including contents whose names start with a dot, in human-readable format
-`ls -t`  : sort directory contents by time modified
-`ls -Glp`  : enable colorized output, long format, and write a slash after each filename if that file is a directory
+-`ls`  : lists directory contents
+-`ls -a` : includes directory contents whose names start with a dot
+-`ls -l`  : lists directory contents in long format
+-`ls -lh`  : when used with '-l', uses unit suffixes (Byte, Kilobyte, etc); human-readable format
+-`ls -lah`  : lists directory contents using long format, including contents whose names start with a dot, in human-readable format
+-`ls -t`  : sort directory contents by time modified
+-`ls -Glp`  : enable colorized output, long format, and write a slash after each filename if that file is a directory
 
 > > See above for definitions of each command
 
@@ -53,11 +53,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > `m` : stream output format
-`u`: sorts by time of last access
-`U`: sorts by time of file creation
-`S`: sorts file by size
-`R`: recursively lists subdirectories encountered
+- `m` : stream output format
+-`u`: sorts by time of last access
+-`U`: sorts by time of file creation
+-`S`: sorts file by size
+-`R`: recursively lists subdirectories encountered
 
 ---
 
