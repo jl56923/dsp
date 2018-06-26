@@ -54,10 +54,10 @@ What do the following commands do:
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
 - `m` : stream output format
--`u`: sorts by time of last access
--`U`: sorts by time of file creation
--`S`: sorts file by size
--`R`: recursively lists subdirectories encountered
+- `u`: sorts by time of last access
+- `U`: sorts by time of file creation
+- `S`: sorts file by size
+- `R`: recursively lists subdirectories encountered
 
 ---
 
