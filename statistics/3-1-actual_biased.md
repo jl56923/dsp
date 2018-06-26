@@ -22,3 +22,4 @@ numkdhh_biased_pmf = BiasPmf(numkdhh_pmf, label = 'observed')
 thinkplot.PrePlot(2)
 thinkplot.Pmfs([numkdhh_pmf, numkdhh_biased_pmf])
 thinkplot.Show(xlabel = 'number of kids in a household', ylabel = 'PMF')
+```
